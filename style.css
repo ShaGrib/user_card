@@ -46,15 +46,15 @@ img{
     border-radius: 50%;
 }
 
-#description{
+.description{
     font-weight: bold;
 }
 
-#location{
+.location{
     font-size: 20px;
 }
 
-a, #location{
+a, .location{
     line-height: 40px;
 }
 
